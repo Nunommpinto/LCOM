@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/lcom1415-t5g10/!svn/ver/112/lib
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1415-t5g10/!svn/ver/34/lib/interrupt.h
+END
+ds12887.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/lcom1415-t5g10/!svn/ver/112/lib/ds12887.h
+END
+bitmanip.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/lcom1415-t5g10/!svn/ver/34/lib/bitmanip.h
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1415-t5g10/!svn/ver/34/lib/interrupt.c
+END

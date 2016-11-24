@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/lcom1415-t5g10/!svn/ver/71/lab3
+END
+i8254.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1415-t5g10/!svn/ver/37/lab3/i8254.h
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1415-t5g10/!svn/ver/68/lab3/keyboard.c
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/lcom1415-t5g10/!svn/ver/37/lab3/interrupt.h
+END
+lab3.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/lcom1415-t5g10/!svn/ver/68/lab3/lab3.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/lcom1415-t5g10/!svn/ver/37/lab3/parser.h
+END
+test3.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1415-t5g10/!svn/ver/71/lab3/test3.c
+END
+test3_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/lcom1415-t5g10/!svn/ver/70/lab3/test3_asm.S
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1415-t5g10/!svn/ver/68/lab3/keyboard.h
+END
+test3.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1415-t5g10/!svn/ver/41/lab3/test3.h
+END
+bitmanip.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1415-t5g10/!svn/ver/41/lab3/bitmanip.h
+END
+i8042.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1415-t5g10/!svn/ver/37/lab3/i8042.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/lcom1415-t5g10/!svn/ver/41/lab3/Makefile
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/lcom1415-t5g10/!svn/ver/39/lab3/interrupt.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/lcom1415-t5g10/!svn/ver/37/lab3/parser.c
+END
